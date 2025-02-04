@@ -1,7 +1,7 @@
 import requests
 
 LATEST_VERSION_URL = "https://raw.githubusercontent.com/arman31/phone_webcam/main/latest_version.txt"
-DOWNLOAD_URL = "https://github.com/your-username/your-repository/releases/download/v1.1/phone_webcam.exe"
+DOWNLOAD_URL = "https://github.com/arman-31/phone_webcam/releases/download/v1.1/phone_webcam.exe"
 CURRENT_VERSION = "1.0"
 
 def check_for_update():
